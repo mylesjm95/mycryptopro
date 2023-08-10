@@ -36,7 +36,7 @@ const Header = () => {
           </div>
           <div className="right-widget d-flex align-items-center ms-auto ms-lg-0 order-lg-3">
             <Link
-              href="/contact"
+              href="/"
               className="start-btn-two fw-500 position-relative d-none d-lg-block"
             >
               Get Started
