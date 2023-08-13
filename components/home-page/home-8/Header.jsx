@@ -31,7 +31,7 @@ const Header = () => {
         <div className="d-flex align-items-center justify-content-between">
           <div className="logo order-lg-0">
             <h4 className="hero-heading fw-500 text-white">
-              <span>MyCryptoPro.io</span>
+              <span>MyCryptoCart.io</span>
             </h4>
           </div>
           <div className="right-widget d-flex align-items-center ms-auto ms-lg-0 order-lg-3">

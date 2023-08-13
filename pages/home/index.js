@@ -173,33 +173,6 @@ const crypto = () => {
         Feedback Section Seven
         =====================================================
         */}
-      <div
-        className="feedback-section-seven position-relative zn2 mt-200 lg-mt-100"
-        data-aos="fade-up"
-      >
-        <div className="container">
-          <div className="title-style-nine text-center pb-80 lg-pb-50">
-            <div className="sc-title">Feedback</div>
-            <h2 className="main-title text-white">
-              Trsuted by <span>Clients</span>
-            </h2>
-          </div>
-          {/* /.title-style-nine */}
-        </div>
-        {/* End .container */}
-
-        <div className="inner-content">
-          <div className="slider-wrapper">
-            <div className="feedback_slider_seven">
-              <Testimonial />
-            </div>
-            {/* /.feedback_slider_seven */}
-          </div>
-          {/* /.slider-wrapper */}
-        </div>
-        {/* /.inner-content */}
-        <div className="shapes shape-one rounded-circle" />
-      </div>
 
       {/*
 			=====================================================

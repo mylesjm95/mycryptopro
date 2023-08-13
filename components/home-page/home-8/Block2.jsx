@@ -10,7 +10,7 @@ const Block2 = () => {
     {
       icon: "/images/icon/icon_79.png",
       title: "Easy to Use & Operate",
-      description: "Geet up and runnning in record breaking time",
+      description: "Get up and runnning in record breaking time",
     },
     {
       icon: "/images/icon/icon_81.png",

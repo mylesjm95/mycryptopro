@@ -6,7 +6,7 @@ export default function Document() {
       <Head>
         <meta
           name="description"
-          content="Jano - Creative Multipurpose React NextJS Template"
+          content="My Crypto Cart - mycryptocart.io"
         />
         <meta
           name="keywords"
