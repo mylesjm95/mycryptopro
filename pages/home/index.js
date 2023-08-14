@@ -185,7 +185,7 @@ const crypto = () => {
             <CallToAction />
           </div>
         </div>
-        <div className="container">
+        <div className="container" id="home-contact-form">
           <ContactForm />
           {/* /.form-style-one */}
         </div>

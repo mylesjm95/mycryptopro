@@ -15,7 +15,7 @@ const Hero = () => {
       />
 
       <h1 className="hero-heading fw-500 text-white mb-45">
-        Trsuted &amp; Secure <span>Crypto</span> Checkout Plugin.
+        Trusted &amp; Secure <span>Crypto</span> Checkout Plugin.
       </h1>
       <p className="text-lg text-white opacity-75 mb-65 lg-mb-50 pe-lg-5">
         Already have a website? Try our easy integration with
@@ -26,7 +26,7 @@ const Hero = () => {
         {/* End popup video */}
 
         <Link
-          href="#"
+          href="#home-contact-form"
           className="btn-sixteen fw-500 tran3s mb-25 me-4 order-sm-first"
         >
           Get in Touch

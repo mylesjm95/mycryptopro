@@ -50,18 +50,6 @@ const Footer = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-4 order-lg-0 mt-15">
-            <ul className="d-flex justify-content-center justify-content-lg-start footer-nav style-none">
-              {links.map((link, index) => (
-                <LinkItem key={index} title={link.title} href={link.href} />
-              ))}
-            </ul>
-          </div>
-          <div className="col-lg-4 order-lg-2 mt-15">
-            <ul className="d-flex justify-content-center justify-content-lg-end social-icon style-none">
-              {icons.map((icon, index) => (
-                <IconItem key={index} icon={icon.icon} href={icon.href} />
-              ))}
-            </ul>
           </div>
           <div className="col-lg-4 order-lg-1 mt-15">
             <p className="copyright text-center m0">
@@ -72,9 +60,8 @@ const Footer = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                MyCryptoPro
+                MyCryptoCart.io
               </a>
-              inc.
             </p>
           </div>
         </div>

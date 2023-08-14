@@ -27,8 +27,8 @@ const BlockFeatureList = () => {
           <li key={index}>{feature.title}</li>
         ))}
       </ul>
-      <a href="#" className="btn-sixteen fw-500 border7 tran3s mt-45">
-        Start Trading
+      <a href="#home-contact-form" className="btn-sixteen fw-500 border7 tran3s mt-45">
+        Accept Crypto
       </a>
     </div>
   );
