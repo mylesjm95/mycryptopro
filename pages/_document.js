@@ -10,10 +10,10 @@ export default function Document() {
         />
         <meta
           name="keywords"
-          content="agency, bootstrap 5, business, business multipurpose, charity, creative, creative template, crypto, education, hosting, insurance, landing page, portfolio, real estate, responsive, react, nextjs"
+          content="agency, business, crypto"
         />
 
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/" />
       </Head>
       <body>
         <Main />
